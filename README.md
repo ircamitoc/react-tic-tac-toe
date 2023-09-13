@@ -2,8 +2,6 @@
 
 A simple Tic Tac Toe game built with React. This project demonstrates the fundamentals of React and is a great starting point for learning React or as a fun coding exercise.
 
-![Tic Tac Toe Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Demo](#demo)
